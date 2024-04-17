@@ -1,8 +1,10 @@
-# React + Vite
+# simple drum machine 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This project is for freecodecamp frontend libraries Certificate
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### technologies used:
+- React
+- Javascript
+- Sass
+- Html
+![image](https://github.com/bisky0-0/simple-drum-machine/assets/88213094/56fe4b8a-16f2-4472-a83d-a665c5851ba7)
